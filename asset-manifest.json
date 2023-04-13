@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/walletwizardgo/static/css/main.82670769.css",
+    "main.js": "/walletwizardgo/static/js/main.45e05c80.js",
+    "index.html": "/walletwizardgo/index.html",
+    "main.82670769.css.map": "/walletwizardgo/static/css/main.82670769.css.map",
+    "main.45e05c80.js.map": "/walletwizardgo/static/js/main.45e05c80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82670769.css",
+    "static/js/main.45e05c80.js"
+  ]
+}
