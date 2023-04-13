@@ -1,9 +1,9 @@
 # Wallet Wizard 🧙🏽‍♀️
 
 A simple budget calculator to keep track of our spending.
+https://rrspw-oo.github.io/walletwizardgo/
 
-
-## `Problem`
+## `Pain Point`
 Whenever I go shopping, I often forget the price of an item I just placed in my shopping cart   
 or accidentally close my calculator app on my phone and lose the running total.   
 It can be frustrating to keep track of expenses on the fly, especially when trying to stick to a budget.  
