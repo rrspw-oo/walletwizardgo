@@ -4,9 +4,10 @@ A simple budget calculator to keep track of our spending.
 https://rrspw-oo.github.io/walletwizardgo/
 
 ## `Pain Point`
-Whenever I go shopping, I often forget the price of an item I just placed in my shopping cart   
-or accidentally close my calculator app on my phone and lose the running total.   
-It can be frustrating to keep track of expenses on the fly, especially when trying to stick to a budget.  
+When I'm shopping, I frequently forget the price of items I've already added to my cart   
+  or I accidentally close my calculator app, losing my running total.  
+  It's frustrating to track my expenses in real-time, particularly when trying to stay within my budget.   
+  Additionally, it's challenging to determine what I can cut out when I surpass my spending limit.
 
 ### `Solution`
 
@@ -21,7 +22,7 @@ Additionally, it will tell you how much change you should receive after making y
 * Input items and prices and remove them as needed  
 * Automatic calculation of total spending  
 * Notification if you go over budget  
-* Change calculation  
+* Simply remove any item and see if your budget stays on track
 
 ### `Usage`
 
